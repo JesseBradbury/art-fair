@@ -10,21 +10,21 @@ import { useApp } from "../utils/app-context";
 const features = [
   {
     imageUrl:
-      "https://cdn.discordapp.com/attachments/1184992990868033647/1225657863993557012/jayblesdrums_High_quality_photography_of_a_street_art_fair_boot_ddeec5d1-8855-4a92-b3f3-06c7293f17d7.png?ex=6621edd6&is=660f78d6&hm=caadb9378e8b416777ea8e9a656c3ffe3a9dbf51fb69e63e6ece258a68ad94d7&",
+      "https://lh3.googleusercontent.com/pw/AP1GczMFFkFoVErSg37XR_54LGWlYXGSoSe5yf0q7DWHCT-DWcKYBuIU0gfvbyrdEZZhS46KQPw0fHL4H5t4GC5ULHfP3bjaVw47gTdyoXSTAdfJ0B_u4AqrapWTY3A7uU3SAQKbKwjU7Cnis5COQ4ObkjIf=w1024-h1024-s-no-gm",
     title: "Browse Our Products",
     splash: "New products featured weekly",
     link: "/shop",
   },
   {
     imageUrl:
-      "https://cdn.discordapp.com/attachments/1184992990868033647/1227018621482700902/jayblesdrums_Happy_Artists_b4943c78-8b0f-4363-a1b2-3fb64e4c3f13.png?ex=6626e124&is=66146c24&hm=3814b80171b699345dd31674ca0e480248baee8923524eaa7fca7a0882ba63e6&",
+      "https://lh3.googleusercontent.com/pw/AP1GczM2IIPGF8Ss1sj6yhFQ5_1yHfmgMKe7NBiVGnC_UEmILWn5FemRDxbG-vnhX3BRxFYzQYWRD2vB9888XWitniYGuPLG4B2W7rJM8HateKhYDr7rzvs09xTcM5qsgOpsaLzkyFryxCp4YhRsdWu27hY9=w1508-h1508-s-no-gm",
     title: "Learn About The Fair",
     splash: "Who we are",
     link: "/about",
   },
   {
     imageUrl:
-      "https://cdn.discordapp.com/attachments/1184992990868033647/1227019176623865896/jayblesdrums_Holding_Paintbrush_dba8aea8-001c-4359-887c-ab2a90bede3f.png?ex=6626e1a8&is=66146ca8&hm=46056cb556539f158bc5204cc0b3fc64ac6f2535d2c07543d1f148d4691195bd&",
+      "https://lh3.googleusercontent.com/pw/AP1GczNSbsUmXSrfh1AMAFUdA1oh80F4qPYDlh8p_ZMvmoA8tqUbmC3p_xk1fpKBOJ1-KjcxL5k5hhCeKrT4wC6B6Goo2uatTEs9CwQkv7l0rHZpX8tJptAlhFEXKFLzHuzey7ZgAHJJUxx0wYlRXl9UFvkA=w1024-h1024-s-no-gm",
     title: "Meet The Artists!",
     splash: "Save your Favorites!",
     link: "/artists",
